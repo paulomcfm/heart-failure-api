@@ -75,7 +75,7 @@ E retorna:
 - `colunas_modelo.pkl` - ordem dos atributos esperados pelo modelo
 
 ## 🌐 Front-end integrado
-Um front-end React está sendo desenvolvido para consumo da API. Veja o repositório correspondente: [LINK DO REPO REACT]
+Um front-end React está sendo desenvolvido para consumo da API. Veja o repositório correspondente: [https://github.com/paulomcfm/heart-failure]
 
 ## 📄 Licença
 Este projeto é de uso educacional/livre. Fique à vontade para adaptar.
